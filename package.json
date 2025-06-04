@@ -1,0 +1,16 @@
+{
+  "name": "web_project_backend",
+  "version": "1.0.0",
+  "description": "1st project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Vikash Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
